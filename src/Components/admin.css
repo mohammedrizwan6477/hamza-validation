@@ -1,0 +1,51 @@
+
+.welcome-admin{
+    /* border: 1px solid white; */
+    margin-top: 20px;   
+    width: fit-content;
+}
+.welcome-admin p{
+    margin-top: 50px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    right: 30px;
+}
+.admin{
+    /* border: 1px solid white; */
+    width: fit-content;
+    margin-top: 80px;
+}
+.admin p{
+    padding-top: 20px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}
+.login-button Button{
+    border: 1px solid black !important;
+    width: 180px;
+    border-radius: 30px;
+    margin-top: 20px;
+    background-color: rgb(73, 161, 205) !important;
+    color: black !important;
+}
+.container-admin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.form{
+    margin-top: 80px;
+}
+.form Label{
+    color: white !important;
+}
+.form Button{
+    width: 220px;
+    border: 1px solid black;
+    color: black ;
+    border-radius: 30px;
+
+}
